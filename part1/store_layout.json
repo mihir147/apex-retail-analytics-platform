@@ -1,0 +1,15 @@
+{
+  "store_id": "STORE_BLR_002",
+  "zones": [
+    {
+      "zone_id": "LEFT_SECTION",
+      "sku_zone": "SKINCARE",
+      "polygon": [[0,0],[640,0],[640,1080],[0,1080]]
+    },
+    {
+      "zone_id": "RIGHT_SECTION",
+      "sku_zone": "COSMETICS",
+      "polygon": [[640,0],[1280,0],[1280,1080],[640,1080]]
+    }
+  ]
+}
